@@ -13,6 +13,14 @@
 Adaptive wavelet noise suppression (AWNS) is a software package that can suppress spectral noise in magnetic resonance spectroscopy (MRS).
 Current development has allowed AWNS process human brain cancer proton MRS with the support from TARQUIN package.
 
+<h3>Philosophy</h3>
+AWNS combines the concepts of MRS theory, data mining and wavelet analysis. 
+According to MRS theory, the acquired MRS spectrum contains both meaningful components that can be quantified into metabolite concentrations and meaningless components which can be treated as noise.
+Benefited from the wavelet theory, it is possible to analyse a time series with flexible time-frequency theory through Heisenberg uncertainty principle.
+However, we do not know how to distinguish noise ones and metabolite-related ones in the decomposed spectral components?
+AWNS does this through a data mining method, which is to use quantification performance to determine the outstanding wavelet variation.
+
+
 <h3>Features</h3>
 In comparison to other tools, AWNS features:
 <ul>
