@@ -5,14 +5,15 @@
 * {
 font-family: "Lucida Grande 2", Tahoma!important;
 line-height:130%;
-letter-spacing:-0.0015in;
+letter-spacing:-0.0016in;
 }
 p, ul {
 font-size: 96%;
 }
-.attr {
-     line-height:90%;
-     margin-bottom: -0.1in;
+p.attr {
+	font-size: 90%;
+  line-height:90%;
+  margin-bottom: -0.1in;
 }
 h1 {
 font-family: "Lucida Grande 2", Tahoma!important;
