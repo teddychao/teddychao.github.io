@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "Lucida Grande 2";
-    src: url(lucidagrande.ttf);
+	font-family: "Lucida Grande 2";
+	src: url(lucidagrande.ttf);
 }
 * {
-font-family: -apple-system, "Lucida Grande 2", Tahoma!important;
-line-height:130%;
-letter-spacing:-0.0016in;
+	font-family: -apple-system, "Lucida Grande 2", Tahoma!important;
+	line-height:130%;
+	letter-spacing:-0.0016in;
 }
 p, ul {
-font-size: 96%;
+	font-size: 96%;
 }
 p.attr {
 	font-size: 90%;
@@ -16,7 +16,6 @@ p.attr {
   margin-bottom: -0.1in;
 }
 h1 {
-font-family: "Lucida Grande 2", Tahoma!important;
-line-height:130%;
-letter-spacing:-0.01in;
+	line-height:130%;
+	letter-spacing:-0.01in;
 }
