@@ -19,7 +19,7 @@ h1 {
 	line-height:130%;
 	letter-spacing:-0.01in;
 }
-body, p, ul, p.attr {
+body {
 	padding-left: 10%;
 	padding-right: 10%;
 }
