@@ -8,7 +8,7 @@
 	letter-spacing:-0.0016in;
 }
 p, ul {
-	font-size: 96%;
+	/* font-size: 96%; */
 }
 p.attr {
 	font-size: 90%;
@@ -20,6 +20,6 @@ h1 {
 	letter-spacing:-0.01in;
 }
 body {
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 15%;
+	padding-right: 15%;
 }
