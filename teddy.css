@@ -3,7 +3,7 @@
 	src: url(lucidagrande.ttf);
 }
 * {
-	font-family: -apple-system, "Lucida Grande 2", Tahoma!important;
+	font-family: "Avenir Next", "Avenir Next LT Pro", "Roboto", "Lucida Grande 2", Tahoma!important;
 	line-height:130%;
 	letter-spacing:-0.0016in;
 }
